@@ -1,0 +1,4 @@
+baseURL = 'https://blog.punk.domains/'
+languageCode = 'en-us'
+title = 'Punk Domains Blog'
+theme = "PaperMod"
