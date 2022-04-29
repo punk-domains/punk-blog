@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'Punk Domains Blog'
 theme = "PaperMod"
 staticDir = ['static']
+[params]
+    env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
+    title = "Punk Domains Blog"
+    description = "Punk Domains is a decentralized protocol for web3 domains."
+    images = ["/cover.png"]
