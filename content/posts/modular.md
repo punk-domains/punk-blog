@@ -1,5 +1,5 @@
 ---
-title: "Punk Domains protocol is modular. Let's see how this works."
+title: "Punk Domains protocol is modular. Let's see how it works!"
 date: 2022-05-11T14:42:22+02:00
 images: ["https://blog.punk.domains/img/modular-design-cover.png"]
 ---
