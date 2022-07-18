@@ -3,8 +3,7 @@ title: "On the path to becoming the most influential DAO in the L2 space - Inter
 date: 2022-07-18T08:32:22+02:00
 images: ["https://blog.punk.domains/img/l2dao/layer2dao-cover.png"]
 cover:
-  image: "/img/l2dao/layer2dao-cover.png"
-  relative: true
+  image: "https://blog.punk.domains/img/l2dao/layer2dao-cover.png"
 ---
 
 Layer2DAO is the first DAO ever to get a top-level domain via the Punk Domains protocol (the .L2 domain).
