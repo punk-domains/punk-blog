@@ -1,9 +1,9 @@
 ---
 title: "How to buy your first punk domain?"
 date: 2022-06-25T08:32:22+02:00
-images: ["https://blog.punk.domains/img/how-to-buy-domain/how-to-buy-first-domain.png"]
 cover:
-  image: "https://blog.punk.domains/img/how-to-buy-domain/how-to-buy-first-domain.png"
+  image: https://blog.punk.domains/img/how-to-buy-domain/how-to-buy-first-domain.png
+images: ["https://blog.punk.domains/img/how-to-buy-domain/how-to-buy-first-domain.png"]
 ---
 
 You have just found the second most amazing thing on the internet - besides cute cat videos, that is. 😸
