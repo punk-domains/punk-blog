@@ -8,3 +8,5 @@ staticDir = ['static']
     title = "Punk Domains Blog"
     description = "Punk Domains is a decentralized protocol for web3 domains."
     images = ["/cover.png"]
+    showShareButtons = true
+    showReadingTime = true

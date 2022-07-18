@@ -1,6 +1,9 @@
 ---
 title: "How does it work?"
 date: 2022-02-28T12:05:14+02:00
+cover:
+  image: "/img/architecture.png"
+  relative: true
 ---
 
 Let's take a more technical overview of Punk Domains. The main Punk Domains engines are TLD Factory contracts.

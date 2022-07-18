@@ -2,6 +2,8 @@
 title: "Migrating from v1 to v2"
 date: 2022-03-23T10:33:12+02:00
 images: ["https://blog.punk.domains/img/old-new-domain-image.png"]
+cover:
+  image: "https://blog.punk.domains/img/old-new-domain-image.png"
 ---
 
 On 23 March 2022, Punk Domains has migrated to version 2. If you've minted domains in V1, you'll automatically get new ones. Old ones will be marked as deprecated, so just ignore them. All newly created domains are now v2 domains.

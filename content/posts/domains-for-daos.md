@@ -2,6 +2,8 @@
 title: "Domains for DAOs and communities"
 date: 2022-03-12T08:32:22+02:00
 images: ["https://blog.punk.domains/img/domains-for-daos.png"]
+cover:
+  image: "https://blog.punk.domains/img/domains-for-daos.png"
 ---
 
 Every top-level domain (like .web3, .spartan, .klima) within the [Punk Domains](https://punk.domains) protocol can be owned by a different entity. Which makes it perfect for DAOs and communities.

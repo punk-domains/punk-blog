@@ -2,6 +2,8 @@
 title: "100% on-chain. It's important."
 date: 2022-04-15T09:33:12+02:00
 images: ["https://blog.punk.domains/img/onchain.png"]
+cover:
+  image: "https://blog.punk.domains/img/onchain.png"
 ---
 
 A very important feature of Punk Domains is that it's a 100% on-chain protocol.

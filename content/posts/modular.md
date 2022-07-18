@@ -2,6 +2,8 @@
 title: "Punk Domains protocol is modular. Let's see how it works!"
 date: 2022-05-11T14:42:22+02:00
 images: ["https://blog.punk.domains/img/modular-design-cover.png"]
+cover:
+  image: "https://blog.punk.domains/img/modular-design-cover.png"
 ---
 
 Punk Domains protocol was built with modularity in mind, which makes it **very flexible** and allows for different parts of the module to be owned by different owners (for example, TLDs or even factories can be owned by a different owners).
