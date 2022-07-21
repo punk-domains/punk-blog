@@ -74,7 +74,15 @@ You can now also see your new profile image in the sidebar (but only if this dom
 
 ![](/img/how-to-set-pfp/8.png)
 
-> *Note that setting a custom image will not replace or remove your default domain image. The default image will always stay the same (and you’ll be able to see it on NFT marketplaces).* 
+### Where else can I see my newly set profile picture
+
+It will be visible on all website and mobile apps that integrate Punk Domains. For example, one such website is an NFT marketplace on Arbitrum called [Trove](https://trove.treasure.lol).
+
+Trove integrated `.smol` domain extension, which is one of the domains running on the Punk Domains protocol. Each user that sets a profile picture for their `.smol` domain, can also see it on the Trove marketplace:
+
+![](/img/how-to-set-pfp/trove.png)
+
+> *Note that setting a custom image will not replace or remove your default domain image (the image with domain name written in the center). The default image will always stay the same.* 
 > 
 > *Setting a profile image in custom data just gives an option to frontends (such as web3 social websites or games) to show this image instead of the default domain image.*
 
