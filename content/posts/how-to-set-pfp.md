@@ -26,39 +26,49 @@ Or a similar browser wallet like Rabby or Tally.
 
 ![](/img/how-to-set-pfp/2.png)
 
-### 3. Open your Profile page
+### 3. Open your Profile page and click on "Edit domain data"
+
+Click on the dropdown button with your domain name in the upper-right corner, and select "Profile".
+
+Then click on "Edit domain data" for one of your domains.
 
 ![](/img/how-to-set-pfp/3.png)
 
-### 4. Click on Edit domain data. The pop-up window will appear 
+### 4. The Domain Details page will open.
+
+![](/img/how-to-set-pfp/5a.png)
+
+### 5. Click on the "Edit data" button.
+
+A pop-up window will appear. 
 
 ![](/img/how-to-set-pfp/4.png)
 
-### 5. Enter custom data
+### 6. Enter custom data
 
-This is where you can add one or multiple information to your Punk Domain. In this case we will add a simple image URL from the internet. 
+This is where you can add one or multiple information for your Punk Domain. In this case we will add a simple image URL from the internet. 
 
-The image URL should start with `http` and end with one of the image or gif extensions, such as `.jpg`, `.jpeg`, `.png`, or `.gif`.
+The image URL should start with `http` and end with one of the image extensions, such as `.jpg`, `.jpeg`, `.png`, or `.gif`.
 
 If you have a correct image URL, just copy-paste it into the `imgAddress` field.
 
-![](/img/how-to-set-pfp/5.png)
+![](/img/how-to-set-pfp/5b.png)
 
-### 6. Submit custom data to blockchain
+### 7. Submit custom data to blockchain
 
 To complete this process, click on Edit Data button. This will open your Metamask. Confirm the transaction. 
 
-> *Tip: Make sure you have enough funds to cover the fees.* 
+> *Tip: Make sure you have enough funds to cover the transaction fee.* 
 
 ![](/img/how-to-set-pfp/6.png)
 
-### 7. The new image should load
+### 8. The new image should appear
 
-Your new image should now be visible in the Punk Domain Data site. In our case a familiar gentleman. 🕺
+Your new image should now be visible on the Domain Details page. In our case a familiar gentleman. 🕺
 
 ![](/img/how-to-set-pfp/7.png)
 
-### 8. You can also see it in sidebar
+### 9. You can also see it in the sidebar
 
 You can now also see your new profile image in the sidebar (but only if this domain is set as your default domain).
 
