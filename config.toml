@@ -10,3 +10,8 @@ staticDir = ['static']
     images = ["/cover.png"]
     showShareButtons = true
     showReadingTime = true
+    label.icon = "picto_color.svg"
+[menu]
+[[menu.main]]
+  name = 'Go to Punk Domains ↗'
+  url = 'https://punk.domains/'
