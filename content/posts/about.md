@@ -1,9 +1,9 @@
 ---
 title: "About Punk Domains"
 date: 2022-02-24T16:28:44+02:00
+images: ["https://blog.punk.domains/img/about.jpg"]
 cover:
-  image: "/cover.png"
-  relative: true
+  image: "https://blog.punk.domains/img/about.jpg"
 ---
 
 Punk Domains allows you to register a domain name attached to your account address.
