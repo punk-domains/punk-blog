@@ -1,5 +1,5 @@
 ---
-title: "Why every DAO/community needs their own domain?"
+title: "Why every DAO/community needs their own web3 domain?"
 date: 2022-08-02T18:32:22+02:00
 cover:
   image: https://blog.punk.domains/img/why-dao-needs-own-domain/why-dao-needs-own-domain-cover.jpeg
@@ -8,9 +8,11 @@ images: ["https://blog.punk.domains/img/why-dao-needs-own-domain/why-dao-needs-o
 
 Every crypto/NFT community starts with an idea. First it grows to a few fans. A few supporters. Few contributors. And it keeps growing and growing. Then it sets up a Discord or Telegram group. Then it becomes a thing. A brand.
 
-Some of you take it a step further and form a DAO with its own token. But the basic principle stays the same. You are a group of people who share the same passion and vision. 
+Some take it a step further and form a DAO with its own token. But the basic principle stays the same. They are a group of people who share the same passion and vision. 
 
-As a founder or moderator of your community, you have the responsibility to nurture it. One great way to do it is to set a domain extension for your community. 
+As a founder or moderator of your community, you have the responsibility to nurture it. One great way to do it is to set a **domain extension** for your community. 
+
+![](/img/why-dao-needs-own-domain/tld-images.jpeg)
 
 But how, you might ask. 
 
@@ -20,7 +22,9 @@ Punk Domains can help you with that. We offer [domains for DAOs and communities]
 
 ### Strengthen the bonds within your community
 
-I am sure you noticed people on Twitter changing their name with domain names like `.eth`, `.crypto`, `.wallet`, etc. 
+I am sure you noticed people on Twitter changing their name to domain names with extensions like `.eth`, `.L2`, `.klima`, etc. 
+
+![](/img/why-dao-needs-own-domain/twitter-web3-domains.png)
 
 Imagine the same happening for your DAO/NFT community. 
 
@@ -32,7 +36,7 @@ Imagine what would happen if you give your members the opportunity to express th
 
 Web3 domains are a digital identity. Your community members can use domains as usernames when they log into your web3 app. 
 
-They can attach additional data to a domain, like a website URL or a Twitter handle. Or they can easily send tokens and NFT to each other.
+They can attach additional data to a domain, like a website URL or a Twitter handle. Or they can **easily send tokens** and NFTs to each other.
 
 ![](https://raw.githubusercontent.com/punk-domains/images/main/send-tokens.png)
 
@@ -66,7 +70,7 @@ Web3 domains are the integral part of Web3 Social. They mainly serve as username
 
 ![](https://raw.githubusercontent.com/punk-domains/images/main/profile-data.png)
 
-We expect every significant web3 community to have their own domain extension, so get ahead of the game and reserve your own extension today!
+We expect every significant web3 community to have their own domain extension, so get ahead of the game and **reserve your own extension today!**
 
 ### Learn more
 
