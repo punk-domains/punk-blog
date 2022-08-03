@@ -34,3 +34,4 @@ If you're a member of a DAO and would be interested in having your own TLD, don'
 
 - Discord: https://discord.gg/8dSrwrAQeu 
 - Twitter: https://twitter.com/PunkDomains 
+- Email: [partners@punk.domains](mailto:partners@punk.domains)
