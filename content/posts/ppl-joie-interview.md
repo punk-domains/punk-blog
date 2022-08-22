@@ -1,6 +1,6 @@
 ---
 title: "Joie: Giving my NFTs a utility with .ppl domains"
-date: 2022-08-22T16:00:00+02:00
+date: 2022-08-22T12:00:00+02:00
 images: ["https://blog.punk.domains/img/ppl-joie/cover.jpeg"]
 cover:
   image: "https://blog.punk.domains/img/ppl-joie/cover.jpeg"
@@ -48,6 +48,8 @@ Well, the [.ppl domain](https://ppl.domains) is my attempt to make my NFTs have 
 
 If you have a `.ppl` domain, you can use it as your username across everything that is built and will be built on web3. 
 
+![](/img/ppl-joie/ppl-domains.png)
+
 ### Who can mint a `.ppl` domain?
 
 Those who have DISH NFT's from all 3 collections can mint `.ppl` domains. So our community people who still have their NFTs can mint these domains too. Also people from the public who want to mint can buy at least one from each collection and be eligible to mint their domains. 
@@ -82,3 +84,5 @@ The Dishes on Arbitrum are here:
 - Dish #3 collection: https://stratosnft.io/collection/dish3
 
 The first DISH collection on Optimism is here: https://quixotic.io/collection/dish
+
+Once you have one of the Dish NFTs on Arbitrum, you can mint yourself a `.ppl` domain here: https://ppl.domains 
