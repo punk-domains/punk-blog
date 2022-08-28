@@ -24,7 +24,7 @@ The Wild Bunch is a brand created by a team lead by Warren Lotas, a streetwear d
 
 Lotas launched his namesake LA streetwear brand in 2014 as an 18-year-old **college freshman**. His graphic-heavy designs have made him a hit in the streetwear sphere, with big names like **Wiz Khalifa** wearing his designs or as **Kanye West** calls them “cool pants.” He has also collaborated with the **NBA** and brands such as **Readymade** and **Fear of God**.
 
-Despite his impressive track record, Lotas is probably best known for his legal battle with Nike over copycat Nike Dunks. In 2017, Nike sued him for copying their Dunk High design. He responded by posting an image on Instagram that read: “Hey @nike I copied your shoe, not you, so stop suing me.” 
+Despite his impressive track record, Lotas is probably best known for his legal battle with Nike over reimagined Nike Dunks. In 2017, Nike sued him for building on top of their Dunk High design. He responded by posting an image on Instagram that read: “Hey @nike I copied your shoe, not you, so stop suing me.”
 
 ![](/img/wild-bunch/warren-lotas-working.jpg)
 
