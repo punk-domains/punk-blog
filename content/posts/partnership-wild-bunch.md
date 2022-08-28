@@ -1,9 +1,9 @@
 ---
 title: "Join The Wild Bunch with .wildbunch domains!"
 date: 2022-08-28T12:00:00+02:00
-images: ["https://blog.punk.domains/img/wild-bunch/cover.jpeg"]
+images: ["https://blog.punk.domains/img/wild-bunch/cover.jpg"]
 cover:
-  image: "https://blog.punk.domains/img/wild-bunch/cover.jpeg"
+  image: "https://blog.punk.domains/img/wild-bunch/cover.jpg"
 ---
 
 We are excited to announce a new Punk Domains partnership. This time with an **awesome NFT community** called The Wild Bunch. 
