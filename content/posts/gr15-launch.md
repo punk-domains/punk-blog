@@ -6,7 +6,9 @@ cover:
 images: ["https://blog.punk.domains/img/gr15/cover.jpg"]
 ---
 
-A new Gitcoin round has started today and it will last until 22 September. We are happy to announce our participation in Gitcoin Round 15! (Link to our Gitcoin grant: https://gitcoin.co/grants/4830/punk-domains)
+A new Gitcoin round has started today and it will last until 22 September. We are happy to announce our participation in Gitcoin Round 15! 
+
+**Link to our Gitcoin grant:** https://gitcoin.co/grants/4830/punk-domains
 
 ## What is Gitcoin?
 
@@ -15,6 +17,8 @@ Gitcoin is a platform on which **anyone can donate** to web3 projects and help t
 But not only that! Gitcoin and its sponsors then **add additional funds to your donation**. This sponsor matching can be 5x, 10x, or even 100x of what you donate.
 
 So in the end, your $10 donation can become a $100 or even a $1000 donation with the help of Gitcoin sponsors. How awesome is that?
+
+![](/img/gr15/gr15-sponsors.jpeg)
 
 ## Why projects seek funding on Gitcoin?
 
@@ -44,6 +48,8 @@ After GR13, **the first 3 web3 communities** got their **own domain extensions**
 - **KlimaDAO** ([.klima domains](https://www.kns.earth/)), 
 - **Smol Brains NFT community** ([.smol domains](https://smol.domains/)).
 
+![](/img/gr15/partners-gr13.jpg)
+
 Funds from GR13 mainly covered the costs of smart contract deployments and some other smaller running costs (web hosting etc.).
 
 ## Achievements after Gitcoin Round 14
@@ -62,6 +68,8 @@ We have launched the Punk Domains protocol on two new networks: **BSC**, and the
 - **Lufroloc NFT community** ([.ppl domains](https://ppl.domains/#/)), 
 - **The Wild Bunch community** ([.wildbunch domains](https://twb.punk.domains/#/)).
 
+![](/img/gr15/partners-gr14.jpg)
+
 ## Plan after GR15
 
 After Gitcoin Round 15, we’ll focus on building **Web3 Social websites for our partners** (web3 communities and DAOs). Web3 Social is the **next big frontier** that we’re heading to in the next couple of years. 
@@ -76,8 +84,12 @@ Last but not least, we’ll further **improve our browser extensions** and deplo
 
 Our **mission** is to help **build Web3 Social** where web3 domains are the integral part, serving as **usernames** and **digital identities**. 
 
+![](/img/pd.png)
+
 We want to **enable any web3 community** and its users to **get and truly own their domains**. In addition, we'll provide these communities with Web3 Social frontend templates (built on top of social graphs such as [Orbis](https://orbis.club) and Lens), so that they can quickly spin out their own Web3 Social websites.
 
 We believe it's high time for the crypto community to start focusing on non-financial use cases, and build a **new kind of social network** which **fixes the mistakes** of traditional social media.
 
 All our work is public on Gitcoin and we consider it as **public good** (anyone can fork it or build on top of it): https://github.com/punk-domains. **Let's build the new world together!**
+
+**Link to our Gitcoin grant:** https://gitcoin.co/grants/4830/punk-domains
