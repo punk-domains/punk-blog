@@ -10,6 +10,8 @@ A new Gitcoin round has started today and it will last until 22 September. We ar
 
 **Link to our Gitcoin grant:** https://gitcoin.co/grants/4830/punk-domains
 
+> *Never used Gitcoin before? Check this step-by-step guide: [How to donate to projects on Gitcoin](https://blog.punk.domains/posts/gitcoin-how-to-donate/).*
+
 ## What is Gitcoin?
 
 Gitcoin is a platform on which **anyone can donate** to web3 projects and help them **fund their development**.
