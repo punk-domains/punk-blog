@@ -62,5 +62,6 @@ There are **many tools and communities** to get started in the ecosystem:
 
 - https://smolpad.lol (to find projects) 
 - https://startwithmagic.com (to start with TreasureDAO),
+- Smol Domains on Twitter: https://twitter.com/smoldomains 
 - Smol Brains community on Discord: https://discord.gg/smolbrains 
-- Smolverse community on Discord: https://discord.gg/MXFc85SqfX 
+- TreasureDAO community on Discord: http://discord.gg/treasuredao 
