@@ -6,7 +6,7 @@ cover:
   image: "https://blog.punk.domains/img/astro/cover.jpg"
 ---
 
-### Hey Astro! 👋 Explain us like we're 5. What is Smolverse?
+### Hey Astro! 👋 Explain to us like we're 5. What is Smolverse?
 
 Smolverse is a **community of NFT collections** within [TreasureDAO](https://treasure.lol/). 
 
