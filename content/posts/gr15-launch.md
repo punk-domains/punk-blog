@@ -80,7 +80,7 @@ Right now, Web3 Social **feels like DeFi in 2019**. Not many people know about i
 
 Besides web3 social, we’ll **continue onboarding new DAOs and web3 communities** to Punk Domains. Hopefully, funds raised in GR15 will help us hire an additional developer, because the interest from web3 communities is growing every month.
 
-Last but not least, we’ll further **improve our browser extensions** and deploy Punk Domains on some **new EVM chains**, like Aurora and Arbitrum Nova.
+Last but not least, we’ll further **improve our browser extensions** and deploy Punk Domains on some **new EVM chains**.
 
 ## Punk Domains Mission
 
