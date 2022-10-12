@@ -46,3 +46,4 @@ Because we firmly believe in (retro) PGF, we have decided to **divert part of ou
 
 This way we’ve **automated public goods funding** and we hope to see many more protocols on Optimism doing the same. 🤘😎
 
+> *Shout out to [Norswap](https://twitter.com/norswap) who pushed for setting up the RetroPGF address within Team Optimism!*
