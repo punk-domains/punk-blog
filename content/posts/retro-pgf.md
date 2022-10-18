@@ -1,6 +1,6 @@
 ---
 title: "How we automated public goods funding with domains on Optimism"
-date: 2022-10-16T12:00:00+02:00
+date: 2022-10-18T11:00:00+02:00
 images: ["https://blog.punk.domains/img/retropgf/cover.jpg"]
 cover:
   image: "https://blog.punk.domains/img/retropgf/cover.jpg"
