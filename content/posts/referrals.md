@@ -37,15 +37,25 @@ There are **two types** of referral links:
 - Referral link with wallet address
 - Referral link with domain name
 
-Here is an example of the referral link with the **wallet address**: `https://punk.domains/#/?ref=0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18`
+Here is an example of the referral link with the **wallet address**: 
 
-Here is an example of the referral link with your **punk domain**: `https://punk.domains/#/?ref=tekr.degen`
+```bash
+https://punk.domains/#/?ref=0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18
+```
+
+Here is an example of the referral link with your **punk domain**: 
+
+```bash
+https://punk.domains/#/?ref=tekr.degen
+```
 
 Both referral links have the same function and both work fine. We suggest using the referral link with your punk domain name because it looks better. 🤘😎
 
 ## How to get referral rewards for our partner domains
 
-Some Punk Domains TLD are owned by our partners and the minting app is hosted on their website. Here is a list of partners websites or special pages:
+Some punk domains are owned and operated by our partners and the minting app is hosted on their website. 
+
+Here is a list of some of our partners websites or special pages:
 
 - Layer2DAO: https://punk.domains/#/partners/l2dao
 - Songbird Domains: https://songbird.domains/#/ 
@@ -55,7 +65,11 @@ Some Punk Domains TLD are owned by our partners and the minting app is hosted on
 
 If you intend to promote our partners domains, make sure to use the correct URL as the referral link. 
 
-Here is an example of the referral link for Songbird Domains: `https://songbird.domains/?ref=tekr.sgb`.
+Here is an example of the referral link for Songbird Domains: 
+
+```html
+https://songbird.domains/?ref=tekr.sgb
+```
 
 If you are not sure your referral link is correct you can always reach out to us over [Discord](https://discord.gg/8dSrwrAQeu ) and our team will be happy to assist you.
 
