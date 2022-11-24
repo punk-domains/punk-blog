@@ -6,7 +6,7 @@ cover:
   image: "https://blog.punk.domains/img/domains-for-daos.png"
 ---
 
-Every top-level domain (like .web3, .spartan, .klima) within the [Punk Domains](https://punk.domains) protocol can be owned by a different entity. Which makes it perfect for DAOs and communities.
+Every top-level domain (like .wagmi, .spartan, .klima) within the [Punk Domains](https://punk.domains) protocol can be owned by a different entity. Which makes it perfect for DAOs and communities.
 
 But what are the benefits of owning a domain if you're a DAO? 
 

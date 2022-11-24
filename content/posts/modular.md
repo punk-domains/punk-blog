@@ -16,7 +16,7 @@ Let's take a look at the graphical representation of the protocol and then dive 
 
 We'll start with the main component of the Punk Domains architecture: a TLD factory.
 
-A TLD factory is a smart contract through which you can create new top-level domains (or TLDs, such as .web3, .ape, op, .etc). Each TLD is a separate smart contract, which is only possible because factory contracts have this "magical" ability to **create new contracts on-chain**. 
+A TLD factory is a smart contract through which you can create new top-level domains (or TLDs, such as .wagmi, .ape, op, .etc). Each TLD is a separate smart contract, which is only possible because factory contracts have this "magical" ability to **create new contracts on-chain**. 
 
 TLD contracts do **not** need to be created and deployed manually by any person. A new TLD contract is created dynamically on-chain, when the appropriate method in the factory contract is called (`createTld` method or `ownerCreateTld` method).
 

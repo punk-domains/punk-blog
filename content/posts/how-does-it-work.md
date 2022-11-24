@@ -30,8 +30,8 @@ A TLD needs to be purchased (minted) from a TLD Factory for a certain price. The
 
 A TLD contract can be owned by anyone. The TLD owner can set domain prices and can stop domain sales anytime they want.
 
-- Example of a TLD: `.web3`
-- Example of a domain: `techie.web3`
+- Example of a TLD: `.wagmi`
+- Example of a domain: `techie.wagmi`
 
 The factory owner can set a royalty for each domain purchase, but the royalty can never exceed 50% of the domain price (in reallity it will be much lower).
 
