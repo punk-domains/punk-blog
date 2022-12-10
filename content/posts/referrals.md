@@ -71,7 +71,7 @@ Here is an example of the referral link for Songbird Domains:
 https://songbird.domains/?ref=tekr.sgb
 ```
 
-If you are not sure your referral link is correct you can always reach out to us over [Discord](https://discord.gg/8dSrwrAQeu ) and our team will be happy to assist you.
+If you are not sure your referral link is correct you can always reach out to us over [Discord](https://discord.gg/8dSrwrAQeu) and our team will be happy to assist you.
 
 ## FAQ
 
