@@ -38,12 +38,16 @@ Public goods projects usually have the bulk of the work done before applying to 
 
 ![](/img/retropgf/op-domains.png)
 
-As you probably know, Punk Domains is a permissionless **web3 domain protocol**. It can support multiple domain extensions, such as `.wagmi`, `.op`, `.L2`, etc.
+As you probably know, Punk Domains is a permissionless **web3 domain protocol**. It can support multiple domain extensions, such as `.wagmi`, `.op`, `.fantom`, `.sgb` etc.
 
 Because we firmly believe in (retro) PGF, we have decided to **divert part of our revenue** stream **into public goods funding**. Any time a new `.op` or `.optimism` domain is minted, **100% of the revenue** goes directly into the official Optimism’s RetroPGF address.
 
 ![](/img/retropgf/etherscan.png)
 
-This way we’ve **automated public goods funding** and we hope to see many more protocols on Optimism doing the same. 🤘😎
+This way we’ve **automated public goods funding** (AutoPGF) and we hope to see many more protocols on Optimism doing the same. 🤘😎
 
-> *Shout out to [Norswap](https://twitter.com/norswap) who pushed for setting up the RetroPGF address within Team Optimism!*
+---
+
+Would you like to get yourself an `.op` domain? We've set up a dedicated website just for that: https://optimistic.doimains/
+
+> *Shout out to [Norswap](https://twitter.com/norswap) who pushed for setting up the RetroPGF address within Team Optimism, and [Michael Silberling](https://twitter.com/MSilb7) who made a huge $OP donation to the RetroPGF address! 🎉*
