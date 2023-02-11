@@ -28,9 +28,9 @@ Punk Domains' main goal is to provide **domain extensions for DAOs and other web
 
 ### The role of governance
 
-Now that the core development of the Punk Domains protocol is finished, the focus of the future DAO will be bringing on new domain partners (issuing new domain extensions) and deploying the protocol on other chains.
+Now that the core development of the Punk Domains protocol is finished, the focus of the future DAO will be **bringing on new domain partners** and deploying the protocol on **other chains**.
 
-The DAO governance will be in charge of **setting the prices for domain extensions** and deciding if **issuing new domain extensions** is open to everyone or just reserved for the governance. And if the need arises, the governance will also have the power to vote on developing new types of domains.
+The DAO governance will be in charge of **setting the prices for domain extensions** and **issuing new domain extensions**. And if the need arises, the governance will also have the power to vote on developing **new types of domains**.
 
 ### Governance Research Council (GRC)
 
