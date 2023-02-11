@@ -85,15 +85,6 @@
 {{- end }}
 {{- end }}
 
-<!--Zoho Campaigns Web-Optin Form's Header Code Starts Here-->
-<script type="text/javascript" src="https://zcv4-zcmp.maillist-manage.eu/js/optin.min.js" onload="setupSF('sf3z5b5f58949c40e2c672f82722eb80b403557a2f439a39db6ea4804375b9d8e982','ZCFORMVIEW',false,'light',false,'0')"></script>
-<script type="text/javascript">
-	function runOnFormSubmit_sf3z5b5f58949c40e2c672f82722eb80b403557a2f439a39db6ea4804375b9d8e982(th){
-		/*Before submit, if you want to trigger your event, "include your code here"*/
-	};
-</script>
-<!--Zoho Campaigns Web-Optin Form's Header Code Ends Here-->
-
 {{- /* Favicons */}}
 <link rel="icon" href="{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ site.Params.assets.favicon16x16 | default "favicon-16x16.png" | absURL }}">
@@ -149,21 +140,6 @@
 
     </style>
     {{- end }}
-
-    <style>
-        /* Zoho*/
-        .quick_form_7_css * {
-            -webkit-box-sizing: border-box !important;
-            -moz-box-sizing: border-box !important;
-            box-sizing: border-box !important;
-            overflow-wrap: break-word
-        }
-        input[type="text"]::placeholder {
-            color: rgb(165, 165, 165)
-        }
-        @media only screen and (max-width: 600px) {.quick_form_7_css[name="SIGNUP_BODY"] { width: 100% !important; min-width: 100% !important; margin: 0px auto !important; padding: 0px !important } .SIGNUP_FLD { width: 90% !important; margin: 10px 5% !important; padding: 0px !important } .SIGNUP_FLD input { margin: 0 !important } }
-        /* Zoho*/
-    </style>
 </noscript>
 
 {{- partial "extend_head.html" . -}}
