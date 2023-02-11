@@ -14,7 +14,7 @@ This will not be a hurried process, but rather an open and ongoing journey of re
 
 We'd love for **you** to come along for the ride and help shape the future of Punk Domains governance.
 
-> <a style="font-size:1.4rem; color:#4443f1" target="_blank" href="https://zcv4-zcmp.maillist-manage.eu/ua/Optin?od=12ba7e9ba877&zx=14ad01fa52&sD=11de1c28b34b6b12"><em>Click here to get notified about DAO and Governance updates</em></a>
+<a target="_blank" href="https://zcmp.eu/y6u"><img src="/img/path-to-dao/button1.png" /></a>
 
 ### What is the Punk Domains protocol
 
@@ -46,7 +46,7 @@ This research and development of our governance system will be done by the **Gov
 
 **Membership to the GRC will be open to anyone**, and we want to bring together people from all walks of life and skill sets to help find the best governance model for Punk Domains.
 
-> <a style="font-size:1.4rem; color:#4443f1" target="_blank" href="https://zcv4-zcmp.maillist-manage.eu/ua/Optin?od=12ba7e9ba877&zx=14ad01fa52&sD=11de1c28b34b6b12"><em>Get notified when the Punk Domains GRC Membership is available</em></a>
+<a target="_blank" href="https://zcmp.eu/Eig"><img src="/img/path-to-dao/button2.png" /></a>
 
 The funds from **membership NFT passes** will go towards covering the costs of the GRC process, mainly development expenses.
 
@@ -84,4 +84,4 @@ It's worth mentioning that these phases won't happen in order (one after the oth
 
 If you're interested in helping shape the Punk Domains governance, **drop your email below** and we'll let you know when the journey begins.
 
-> <a style="font-size:1.4rem; color:#4443f1" target="_blank" href="https://zcv4-zcmp.maillist-manage.eu/ua/Optin?od=12ba7e9ba877&zx=14ad01fa52&sD=11de1c28b34b6b12"><em>Click here to get notified about the GRC Membership NFT</em></a>
+<a target="_blank" href="https://zcmp.eu/Eig"><img src="/img/path-to-dao/button3.png" /></a>
