@@ -65,4 +65,3 @@ So to sum it up, traditional DNS domains are used to access websites on the inte
 Both types of domains make it easier for us to remember where to find things online, but web3 domains also give us the ability to own our online identity. 
 
 Cool, right? 🤘😎
-

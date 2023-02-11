@@ -16,3 +16,6 @@ staticDir = ['static']
 [[menu.main]]
   name = 'Go to Punk Domains ↗'
   url = 'https://punk.domains/'
+
+[markup.goldmark.renderer]
+unsafe= true
