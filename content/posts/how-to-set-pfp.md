@@ -1,5 +1,5 @@
 ---
-title: "How to set a profile picture for your punk domain?"
+title: "How can I set up an NFT as my profile picture?"
 date: 2022-07-21T11:32:22+02:00
 cover:
   image: https://blog.punk.domains/img/how-to-set-pfp/preview.jpg
