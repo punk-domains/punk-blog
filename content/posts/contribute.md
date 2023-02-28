@@ -67,6 +67,8 @@ If you'd like to become a Punk Domains contributor, feel free to reach out via [
 
 Currently people experienced with **Vue** can contribute the most in terms of technical contributions.
 
+You can also take a look at the **list of ongoing tasks for contributors** on GitHub: https://github.com/orgs/punk-domains/discussions/1 
+
 We're looking forward to meet you!
 
 > *Note that being a Punk Domains contributor is **not a paid position**, but we still try to find ways to reward meaningful past work. The most straightforward way of being rewarded for your work is by doing development for clients, where you can get a share of each domain minting payment (automated in the Minter contract).*
