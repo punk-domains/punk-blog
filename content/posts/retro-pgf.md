@@ -48,6 +48,6 @@ This way we’ve **automated public goods funding** (AutoPGF) and we hope to see
 
 ---
 
-Would you like to get yourself an `.op` domain? We've set up a dedicated website just for that: https://optimistic.doimains/
+Would you like to get yourself an `.op` domain? We've set up a dedicated website just for that: https://optimistic.domains/
 
 > *Shout out to [Norswap](https://twitter.com/norswap) who pushed for setting up the RetroPGF address within Team Optimism, and [Michael Silberling](https://twitter.com/MSilb7) who made a huge $OP donation to the RetroPGF address! 🎉*
