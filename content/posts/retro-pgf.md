@@ -46,6 +46,15 @@ Because we firmly believe in (retro) PGF, we have decided to **divert part of ou
 
 This way we’ve **automated public goods funding** (AutoPGF) and we hope to see many more protocols on Optimism doing the same. 🤘😎
 
+### Track in real time
+
+You can track the amount of donations in real time via Dune Analytics:
+
+- Donations per month: https://dune.com/queries/2257511/3699831 
+- Total donations: https://dune.com/queries/2350714 
+
+<iframe src="https://dune.com/embeds/2350714/3849114" style="background: white;" height="200" width="500" title="Punk Domains RetroPGF"></iframe>
+
 ---
 
 Would you like to get yourself an `.op` domain? We've set up a dedicated website just for that: https://optimistic.domains/
